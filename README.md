@@ -1,5 +1,5 @@
 # Use
-CLI to convert your manuscript chess scoresheet into valid PGN format to import anywhere you want with timestamps. Just follow the prompted instructions.
+CLI tool to convert your manuscript chess scoresheet into valid PGN format to import anywhere you want with timestamps. Just follow the prompted instructions.
 
 # Activity diagram
 ```mermaid
